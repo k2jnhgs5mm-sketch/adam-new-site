@@ -241,4 +241,9 @@ input:focus, select:focus, textarea:focus{border-color: rgba(122,214,199,.65)}
   .grid-2{grid-template-columns:1fr}
   .lead-grid{grid-template-columns:1fr}
   .footer-grid{grid-template-columns:1fr}
+}header .brand img{
+  width: 40px !important;
+  height: 40px !important;
+  max-width: none !important;
 }
+
